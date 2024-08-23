@@ -62,17 +62,13 @@ If you want to reach out to me about anything, just to talk or want to game toge
 </a>
 </a>
 <a href="https://steamcommunity.com/id/Kazuki_off/">
-  <img align="left" alt="Steam" width="80"src="./assets/icons/steam.png" />
+  <img align="left" alt="Steam" width="80" src="./assets/icons/steam.png" />
 </a>
-</br>
-</br>
-</br>
-</br>
 <a href="https://discordapp.com/users/874012187302199296">
-  <img align="left" alt="Discord" width="80"src="./assets/icons/discord.png" />
+  <img align="left" alt="Discord" width="80" src="./assets/icons/discord.png" />
 </a>
 <a href="https://t.me/kazuki_off">
-  <img align="left" alt="Telegram" width="80"src="./assets/icons/telegram.png" />
+  <img align="left" alt="Telegram" width="80" src="./assets/icons/telegram.png" />
 </a>
  </p>
  </div>
