@@ -50,7 +50,8 @@
 # Contact Me :
 
 <p>
- </br></br>
+ </br>
+ </br>
 
 <img hight="320" width="450" align="right" alt="GIF" src="./assets/giph.gif">
 
@@ -64,12 +65,6 @@ If you want to reach out to me about anything, just to talk or want to game toge
  </p>
  </div>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 </br>
 </br>
 </br>
