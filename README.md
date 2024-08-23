@@ -35,7 +35,6 @@
 </br>
 </br>
 
-</style>
 <div align="center">
 <img src="./assets/icons/html.png" height="75" class="icon1">
 <img src="./assets/icons/css.png" height="75" class="icon2">
