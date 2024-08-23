@@ -35,24 +35,8 @@
 </br>
 </br>
 
-<style>
-  .icons{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap:30px;
-  }
-
-  .contact{
-    display: flex;
-    flex-direction: row;
-    flex-wrap:wrap;
-    gap:5px;
-    align-items:center;
-  }
-
 </style>
-<div class="icons">
+<div align="center">
 <img src="./assets/icons/html.png" height="75" class="icon1">
 <img src="./assets/icons/css.png" height="75" class="icon2">
 <img src="./assets/icons/js.png" height="75" class="icon3">
@@ -73,7 +57,7 @@
 
 If you want to reach out to me about anything, just to talk or want to game together just ping me 😉.
 
-<div class="contact">
+<div display="flex" align-items= "center" gap="5px" flex-wrap="wrap">
 <a href="mailto:bogdankonoshko@gmail.com">
  <img align="left" alt="Gmail" width="90" src="./assets/icons/gmail.png" />
 </a>
@@ -81,6 +65,10 @@ If you want to reach out to me about anything, just to talk or want to game toge
 <a href="https://steamcommunity.com/id/Kazuki_off/">
   <img align="left" alt="Steam" width="80"src="./assets/icons/steam.png" />
 </a>
+</br>
+</br>
+</br>
+</br>
 <a href="https://discordapp.com/users/874012187302199296">
   <img align="left" alt="Discord" width="80"src="./assets/icons/discord.png" />
 </a>
