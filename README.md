@@ -56,7 +56,7 @@
 
 If you want to reach out to me about anything, just to talk or want to game together just ping me 😉.
 
-<div display="flex" align-items= "center" gap="5px" flex-wrap="wrap">
+<div align="center">
 <a href="mailto:bogdankonoshko@gmail.com">
  <img align="left" alt="Gmail" width="90" src="./assets/icons/gmail.png" />
 </a>
