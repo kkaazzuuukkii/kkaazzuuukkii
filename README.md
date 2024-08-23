@@ -64,6 +64,7 @@ If you want to reach out to me about anything, just to talk or want to game toge
 <a href="https://steamcommunity.com/id/Kazuki_off/">
   <img align="left" alt="Steam" width="80" src="./assets/icons/steam.png" />
 </a>
+ <div width="90"></div>
 <a href="https://discordapp.com/users/874012187302199296">
   <img align="left" alt="Discord" width="80" src="./assets/icons/discord.png" />
 </a>
