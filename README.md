@@ -56,7 +56,7 @@
 
 If you want to reach out to me about anything, just to talk or want to game together just ping me 😉.
 
-<div>
+<div align="center">
 <a href="mailto:bogdankonoshko@gmail.com" width="80" height="80"><img  alt="Gmail" width="80" height="80" src="./assets/icons/gmail.png" /></a>
 <a href="https://steamcommunity.com/id/Kazuki_off/" width="80" height="80"><img alt="Steam" width="80" height="80" src="./assets/icons/steam.png" /></a>
 <a href="https://discordapp.com/users/874012187302199296" width="80" height="80"><img alt="Discord" width="80" height="80" src="./assets/icons/discord.png" /></a>
